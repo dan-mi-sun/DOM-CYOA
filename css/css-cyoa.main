@@ -4,30 +4,50 @@ body {
 }
 
 h1 {
-  color: white;  
+  background-color:rgba(255,0,0,0.5);
+  border-radius: 10px;
+  width: 100%;
+  padding: 0.25em;
+  color: black;  
   font-size: 3em;
 }
 
 h3 {
-  color: white;  
+  color: black;  
   font-size: 2em;
 }
 
 p {
-  color: white;
+  color: black;
   font-size: 1.5em;
-}
-
-.content {
-  display: inline-block;  
+  display: block;
 }
 
 img {
   width: 25em;
+  margin: 30px 30px;
   }
 
 a  {
   text-decoration: underline;
   font-weight: bold;
-  color: white;
+  color: red;
+}
+
+.image {
+  float: left;
+}
+  
+
+
+.choices {
+  float: left;
+  width: 500px;
+  height; 505px;
+  padding; 15px;
+  margin: 30px 30px;
+  background-color: white;
+  border:1px solid black;
+  opacity:0.6;
+  z-index: -1;
 }
