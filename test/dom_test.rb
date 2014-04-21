@@ -54,6 +54,7 @@ class DomTest < Test::Unit::TestCase
 
 	def test_elements_can_have_attributes
 		@img = @body.elements[1]
+    binding.pry
 		assert_equal 2, @img.attributes.length
 		assert_equal ["src", "alt"], @img.attributes.keys
     assert_equal "img/ulysses31_crew.jpg", @img.attr(:src)
