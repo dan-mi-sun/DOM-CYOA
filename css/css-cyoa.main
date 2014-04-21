@@ -25,3 +25,9 @@ p {
 img {
   width: 25em;
   }
+
+a  {
+  text-decoration: underline;
+  font-weight: bold;
+  color: white;
+}
