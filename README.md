@@ -19,3 +19,18 @@ The aim of this simple exercise was to accquaint ourselves with aspects of linki
 
 ### Notes
 http://dan-mi-sun.github.io/week2day8-dom-traversal-and-manipulation/
+
+####Notes from WeGotCoders:
+http://dan-mi-sun.github.io/
+
+http://dan-mi-sun.github.io/wegotcoders/why-code-with-we-got-coders/
+
+http://dan-mi-sun.github.io/reflections-on-8-weeks-with-we-got-coders/
+
+
+####Contact
+twitter: @dan_mi_sun
+
+gmail: dan.mi.sun@gmail.com
+
+uk.linkedin.com/in/danielsundigital/
