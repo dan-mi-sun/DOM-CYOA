@@ -25,7 +25,9 @@ http://dan-mi-sun.github.io/
 
 http://dan-mi-sun.github.io/wegotcoders/why-code-with-we-got-coders/
 
-http://dan-mi-sun.github.io/reflections-on-8-weeks-with-we-got-coders/
+http://dan-mi-sun.github.io/wegotcoders/reflections-on-8-weeks-with-we-got-coders/
+
+http://dan-mi-sun.github.io/wegotcoders/reflections-on-12-weeks-with-we-got-coders/
 
 
 ####Contact
